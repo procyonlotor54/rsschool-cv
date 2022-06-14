@@ -1,5 +1,5 @@
 # Vladislav Rappu
-![photo](https://github.com/procyonlotor54/rsschool-cv/blob/rsschool-cv-html/photo.jpg))
+![photo](https://github.com/procyonlotor54/rsschool-cv/blob/rsschool-cv-html/photo.jpg)
 ### Junior Frontend Developer
 
 ## Contacts
